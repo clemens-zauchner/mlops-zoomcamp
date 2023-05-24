@@ -1,0 +1,6 @@
+Number of columns: 19
+Standard deviation of the trip duration: 9.1
+Percentage of records left after dropping outliers: 0.9835198307095451
+Number of columns: 515
+RMSE training: 7.016720281579905
+RMSE validation: 7.82733799942399
